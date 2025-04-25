@@ -1,6 +1,6 @@
 # 🤖 MARCEL BOT
 
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+hallo Ini adalah file script bot WhatsApp yang dibuat menggunakan perpustakaan Baileys untuk manajemen grup, termasuk fitur-fitur seperti menandai semua anggota, membisamkan/membatalkan muting, dan banyak lagi. Ini dirancang untuk membantu admin mengelola grup WhatsApp secara efisien.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
